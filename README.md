@@ -2,8 +2,7 @@
 ### A digital solution for clinical laboratory management
 ### Developed for Joaquim Chaves
 
-<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/e4b6c732-0956-4163-a70a-d992b9a1835b" />
-
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/580ceea6-183f-476e-ac0d-41c99ea8b59d" />
 ---
 
 ## Why this system was created
